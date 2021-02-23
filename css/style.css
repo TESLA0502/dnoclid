@@ -157,7 +157,7 @@ a:focus {
 .form-control:focus {
   box-shadow: none;
   outline: none;
-  border: 1px solid #555;
+  border: 1px solid #555; 
 }
 
 .form-control::-webkit-input-placeholder {
