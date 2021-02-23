@@ -36,33 +36,33 @@ jQuery(document).ready(function() {
 			setActiveStyleSheet('orange'); 
 			var logouser = $('#logo-user');
 			if (logouser.length) {
-				document.getElementById('logo-user').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/styleswitcher/logos/logo-dark.png';
+				document.getElementById('logo-user').src='https://tesla0502.github.io/dnoclid/images/styleswitcher/logos/logo-dark.png';
 			}
 			var aboutimg = $('#about-us');
 			if (aboutimg.length) {
-				document.getElementById('about-us').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/about-us.png';
+				document.getElementById('about-us').src='https://tesla0502.github.io/dnoclid/images/about-us.png';
 			}
 			var aboutimg = $('#about-us');
 			if (aboutimg.length) {
-				document.getElementById('about-us').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/styleswitcher/about-us-green.png';
+				document.getElementById('about-us').src='https://tesla0502.github.io/dnoclid/images/styleswitcher/about-us-green.png';
 			}
 			if($('#is_light').is(':checked')){ 
-				document.getElementById('logo').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/styleswitcher/logos/logo-white.png';
-				document.getElementById('logo-mobile').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/styleswitcher/logos/logo-white.png';
+				document.getElementById('logo').src='https://tesla0502.github.io/dnoclid/images/styleswitcher/logos/logo-white.png';
+				document.getElementById('logo-mobile').src='https://tesla0502.github.io/dnoclid/images/styleswitcher/logos/logo-white.png';
 			}
 			else {
-				document.getElementById('logo').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/styleswitcher/logos/logo-dark.png';
-				document.getElementById('logo-mobile').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/styleswitcher/logos/logo-dark.png';
+				document.getElementById('logo').src='https://tesla0502.github.io/dnoclid/images/styleswitcher/logos/logo-dark.png';
+				document.getElementById('logo-mobile').src='https://tesla0502.github.io/dnoclid/images/styleswitcher/logos/logo-dark.png';
 			}	
-			document.getElementById('download-bitcoin').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/icons/orange/download-bitcoin.png';
-			document.getElementById('add-bitcoins').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/icons/orange/add-bitcoins.png';
-			document.getElementById('buy-sell-bitcoins').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/icons/orange/buy-sell-bitcoins.png';
-			document.getElementById('strong-security').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/icons/orange/strong-security.png';
-			document.getElementById('world-coverage').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/icons/orange/world-coverage.png';
-			document.getElementById('payment-options').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/icons/orange/payment-options.png';
-			document.getElementById('mobile-app').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/icons/orange/mobile-app.png';
-			document.getElementById('cost-efficiency').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/icons/orange/cost-efficiency.png';
-			document.getElementById('high-liquidity').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/icons/orange/high-liquidity.png';
+			document.getElementById('download-bitcoin').src='https://tesla0502.github.io/dnoclid/images/icons/orange/download-bitcoin.png';
+			document.getElementById('add-bitcoins').src='https://tesla0502.github.io/dnoclid/images/icons/orange/add-bitcoins.png';
+			document.getElementById('buy-sell-bitcoins').src='https://tesla0502.github.io/dnoclid/images/icons/orange/buy-sell-bitcoins.png';
+			document.getElementById('strong-security').src='https://tesla0502.github.io/dnoclid/images/icons/orange/strong-security.png';
+			document.getElementById('world-coverage').src='https://tesla0502.github.io/dnoclid/images/icons/orange/world-coverage.png';
+			document.getElementById('payment-options').src='https://tesla0502.github.io/dnoclid/images/icons/orange/payment-options.png';
+			document.getElementById('mobile-app').src='https://tesla0502.github.io/dnoclid/images/icons/orange/mobile-app.png';
+			document.getElementById('cost-efficiency').src='https://tesla0502.github.io/dnoclid/images/icons/orange/cost-efficiency.png';
+			document.getElementById('high-liquidity').src='https://tesla0502.github.io/dnoclid/images/icons/orange/high-liquidity.png';
 		});
 		
 		$('#green-css').on('click', function () {
@@ -72,30 +72,30 @@ jQuery(document).ready(function() {
 			setActiveStyleSheet('green'); 
 			var logouser = $('#logo-user');
 			if (logouser.length) {
-				document.getElementById('logo-user').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/styleswitcher/logos/green-dark.png';
+				document.getElementById('logo-user').src='https://tesla0502.github.io/dnoclid/images/styleswitcher/logos/green-dark.png';
 			}
 			var aboutimg = $('#about-us');
 			if (aboutimg.length) {
-				document.getElementById('about-us').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/styleswitcher/about-us-green.png';
+				document.getElementById('about-us').src='https://tesla0502.github.io/dnoclid/images/styleswitcher/about-us-green.png';
 			}
 			if($('#is_light').is(':checked')){ 
-				document.getElementById('logo').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/styleswitcher/logos/green-white.png';
-				document.getElementById('logo-mobile').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/styleswitcher/logos/green-white.png';
+				document.getElementById('logo').src='https://tesla0502.github.io/dnoclid/images/styleswitcher/logos/green-white.png';
+				document.getElementById('logo-mobile').src='https://tesla0502.github.io/dnoclid/images/styleswitcher/logos/green-white.png';
 			}
 			else {
-				document.getElementById('logo').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/styleswitcher/logos/green-dark.png';
-				document.getElementById('logo-mobile').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/styleswitcher/logos/green-dark.png';
+				document.getElementById('logo').src='https://tesla0502.github.io/dnoclid/images/styleswitcher/logos/green-dark.png';
+				document.getElementById('logo-mobile').src='https://tesla0502.github.io/dnoclid/images/styleswitcher/logos/green-dark.png';
 			}
 			
-			document.getElementById('download-bitcoin').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/icons/green/download-bitcoin.png';
-			document.getElementById('add-bitcoins').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/icons/green/add-bitcoins.png';
-			document.getElementById('buy-sell-bitcoins').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/icons/green/buy-sell-bitcoins.png';
-			document.getElementById('strong-security').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/icons/green/strong-security.png';
-			document.getElementById('world-coverage').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/icons/green/world-coverage.png';
-			document.getElementById('payment-options').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/icons/green/payment-options.png';
-			document.getElementById('mobile-app').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/icons/green/mobile-app.png';
-			document.getElementById('cost-efficiency').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/icons/green/cost-efficiency.png';
-			document.getElementById('high-liquidity').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/icons/green/high-liquidity.png';
+			document.getElementById('download-bitcoin').src='https://tesla0502.github.io/dnoclid/images/icons/green/download-bitcoin.png';
+			document.getElementById('add-bitcoins').src='https://tesla0502.github.io/dnoclid/images/icons/green/add-bitcoins.png';
+			document.getElementById('buy-sell-bitcoins').src='https://tesla0502.github.io/dnoclid/images/icons/green/buy-sell-bitcoins.png';
+			document.getElementById('strong-security').src='https://tesla0502.github.io/dnoclid/images/icons/green/strong-security.png';
+			document.getElementById('world-coverage').src='https://tesla0502.github.io/dnoclid/images/icons/green/world-coverage.png';
+			document.getElementById('payment-options').src='https://tesla0502.github.io/dnoclid/images/icons/green/payment-options.png';
+			document.getElementById('mobile-app').src='https://tesla0502.github.io/dnoclid/images/icons/green/mobile-app.png';
+			document.getElementById('cost-efficiency').src='https://tesla0502.github.io/dnoclid/images/icons/green/cost-efficiency.png';
+			document.getElementById('high-liquidity').src='https://tesla0502.github.io/dnoclid/images/icons/green/high-liquidity.png';
 		});
 		
 		$('#blue-css').on('click', function () {
@@ -105,29 +105,29 @@ jQuery(document).ready(function() {
 			setActiveStyleSheet('blue'); 
 			var logouser = $('#logo-user');
 			if (logouser.length) {
-				document.getElementById('logo-user').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/styleswitcher/logos/blue-dark.png';
+				document.getElementById('logo-user').src='https://tesla0502.github.io/dnoclid/images/styleswitcher/logos/blue-dark.png';
 			}
 			var aboutimg = $('#about-us');
 			if (aboutimg.length) {
-				document.getElementById('about-us').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/styleswitcher/about-us-blue.png';
+				document.getElementById('about-us').src='https://tesla0502.github.io/dnoclid/images/styleswitcher/about-us-blue.png';
 			}
 			if($('#is_light').is(':checked')){ 
-				document.getElementById('logo').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/styleswitcher/logos/blue-white.png';
-				document.getElementById('logo-mobile').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/styleswitcher/logos/blue-white.png';
+				document.getElementById('logo').src='https://tesla0502.github.io/dnoclid/images/styleswitcher/logos/blue-white.png';
+				document.getElementById('logo-mobile').src='https://tesla0502.github.io/dnoclid/images/styleswitcher/logos/blue-white.png';
 			}
 			else {
-				document.getElementById('logo').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/styleswitcher/logos/blue-dark.png';
-				document.getElementById('logo-mobile').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/styleswitcher/logos/blue-dark.png';
+				document.getElementById('logo').src='https://tesla0502.github.io/dnoclid/images/styleswitcher/logos/blue-dark.png';
+				document.getElementById('logo-mobile').src='https://tesla0502.github.io/dnoclid/images/styleswitcher/logos/blue-dark.png';
 			}	
-			document.getElementById('download-bitcoin').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/icons/blue/download-bitcoin.png';
-			document.getElementById('add-bitcoins').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/icons/blue/add-bitcoins.png';
-			document.getElementById('buy-sell-bitcoins').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/icons/blue/buy-sell-bitcoins.png';
-			document.getElementById('strong-security').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/icons/blue/strong-security.png';
-			document.getElementById('world-coverage').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/icons/blue/world-coverage.png';
-			document.getElementById('payment-options').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/icons/blue/payment-options.png';
-			document.getElementById('mobile-app').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/icons/blue/mobile-app.png';
-			document.getElementById('cost-efficiency').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/icons/blue/cost-efficiency.png';
-			document.getElementById('high-liquidity').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/icons/blue/high-liquidity.png';
+			document.getElementById('download-bitcoin').src='https://tesla0502.github.io/dnoclid/images/icons/blue/download-bitcoin.png';
+			document.getElementById('add-bitcoins').src='https://tesla0502.github.io/dnoclid/images/icons/blue/add-bitcoins.png';
+			document.getElementById('buy-sell-bitcoins').src='https://tesla0502.github.io/dnoclid/images/icons/blue/buy-sell-bitcoins.png';
+			document.getElementById('strong-security').src='https://tesla0502.github.io/dnoclid/images/icons/blue/strong-security.png';
+			document.getElementById('world-coverage').src='https://tesla0502.github.io/dnoclid/images/icons/blue/world-coverage.png';
+			document.getElementById('payment-options').src='https://tesla0502.github.io/dnoclid/images/icons/blue/payment-options.png';
+			document.getElementById('mobile-app').src='https://tesla0502.github.io/dnoclid/images/icons/blue/mobile-app.png';
+			document.getElementById('cost-efficiency').src='https://tesla0502.github.io/dnoclid/images/icons/blue/cost-efficiency.png';
+			document.getElementById('high-liquidity').src='https://tesla0502.github.io/dnoclid/images/icons/blue/high-liquidity.png';
 		});
 	
 	$('#is_dark').on('click', function() {
@@ -140,16 +140,16 @@ jQuery(document).ready(function() {
 		$('.chart-2').css('margin','0');
 		$('.chart-1').css('margin','70px 0');	
 		if (orange == true) {
-			document.getElementById('logo').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/logo-dark.png';
-			document.getElementById('logo-mobile').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/logo-dark.png';
+			document.getElementById('logo').src='https://tesla0502.github.io/dnoclid/images/logo-dark.png';
+			document.getElementById('logo-mobile').src='https://tesla0502.github.io/dnoclid/images/logo-dark.png';
 		}
 		else if (green == true) {
-			document.getElementById('logo').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/styleswitcher/logos/green-dark.png';
-			document.getElementById('logo-mobile').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/styleswitcher/logos/green-dark.png';
+			document.getElementById('logo').src='https://tesla0502.github.io/dnoclid/images/styleswitcher/logos/green-dark.png';
+			document.getElementById('logo-mobile').src='https://tesla0502.github.io/dnoclid/images/styleswitcher/logos/green-dark.png';
 		}
 		else {
-			document.getElementById('logo').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/styleswitcher/logos/blue-dark.png';
-				document.getElementById('logo-mobile').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/styleswitcher/logos/blue-dark.png';
+			document.getElementById('logo').src='https://tesla0502.github.io/dnoclid/images/styleswitcher/logos/blue-dark.png';
+				document.getElementById('logo-mobile').src='https://tesla0502.github.io/dnoclid/images/styleswitcher/logos/blue-dark.png';
 		}
 		 			
 		 });
@@ -163,16 +163,16 @@ jQuery(document).ready(function() {
 			$('.chart-1').css('margin','0');
 			$('.chart-2').css('margin','70px 0');
 		if (orange == true) {
-			document.getElementById('logo').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/logo-white.png';
-			document.getElementById('logo-mobile').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/logo-white.png';
+			document.getElementById('logo').src='https://tesla0502.github.io/dnoclid/images/logo-white.png';
+			document.getElementById('logo-mobile').src='https://tesla0502.github.io/dnoclid/images/logo-white.png';
 		}
 		else if (green == true) {
-			document.getElementById('logo').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/styleswitcher/logos/green-white.png';
-			document.getElementById('logo-mobile').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/styleswitcher/logos/green-white.png';
+			document.getElementById('logo').src='https://tesla0502.github.io/dnoclid/images/styleswitcher/logos/green-white.png';
+			document.getElementById('logo-mobile').src='https://tesla0502.github.io/dnoclid/images/styleswitcher/logos/green-white.png';
 		}
 		else {
-			document.getElementById('logo').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/styleswitcher/logos/blue-white.png';
-				document.getElementById('logo-mobile').src='https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/styleswitcher/logos/blue-white.png';
+			document.getElementById('logo').src='https://tesla0502.github.io/dnoclid/images/styleswitcher/logos/blue-white.png';
+				document.getElementById('logo-mobile').src='https://tesla0502.github.io/dnoclid/images/styleswitcher/logos/blue-white.png';
 		}
 		 
 		 });
@@ -194,7 +194,7 @@ function setActiveStyleSheet(title) {
 		jQuery("#css_dark_skin").remove();
 		jQuery("head").append('<link id="css_dark_skin" href="assets/css/layout-dark.css" rel="stylesheet" type="text/css" title="dark" />');
 		jQuery("#is_dark").trigger('click');
-		jQuery("a.logo img").attr('src', 'assets/https://tesla0502.github.io/PLANTILLABIOLIFE/assets/images/logo_dark.png');
+		jQuery("a.logo img").attr('src', 'assets/images/logo_dark.png');
 	}
 }
 
